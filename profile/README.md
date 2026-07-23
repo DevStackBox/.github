@@ -6,10 +6,10 @@ DevStackBox is a free and open-source desktop application that bundles Apache, P
 
 ## Projects
 
-- 🚀 **DevStackBox** — Desktop application for Windows
-- 🌐 **Website** — https://www.devstackbox.com
-- 📚 **Documentation** — https://www.devstackbox.com/docs
-- 📦 **Latest Release** — https://github.com/DevStackBox/DevStackBox/releases/latest
+- 🚀 **DevStackBox** - Desktop application for Windows
+- 🌐 **Website** - https://www.devstackbox.com
+- 📚 **Documentation** - https://www.devstackbox.com/docs
+- 📦 **Latest Release** - https://github.com/DevStackBox/DevStackBox/releases/latest
 
 ## Features
 
